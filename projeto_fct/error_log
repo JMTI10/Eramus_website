@@ -1,0 +1,254 @@
+[12-Jun-2020 14:21:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[12-Jun-2020 14:21:38 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[12-Jun-2020 14:21:38 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[12-Jun-2020 14:21:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[12-Jun-2020 14:21:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[12-Jun-2020 14:21:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[12-Jun-2020 14:21:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[12-Jun-2020 14:21:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[12-Jun-2020 14:21:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[12-Jun-2020 14:21:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[12-Jun-2020 14:21:41 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[12-Jun-2020 14:21:41 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[12-Jun-2020 14:21:41 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[12-Jun-2020 14:21:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[15-Jun-2020 10:04:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[15-Jun-2020 10:04:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[15-Jun-2020 10:04:13 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[15-Jun-2020 10:05:05 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:05:05 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:05:08 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:05:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:07 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:08 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:08 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:08 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:09 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:09 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:34 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:35 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:35 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:35 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:35 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:36 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:36 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:36 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:36 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:36 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:37 UTC] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1
+[15-Jun-2020 10:06:40 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 724
+[15-Jun-2020 10:06:40 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 725
+[15-Jun-2020 10:06:40 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 726
+[15-Jun-2020 10:06:40 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 727
+[15-Jun-2020 10:06:40 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 971
+[15-Jun-2020 10:06:40 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 972
+[15-Jun-2020 10:06:40 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 973
+[15-Jun-2020 10:06:40 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 974
+[15-Jun-2020 10:06:40 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1219
+[15-Jun-2020 10:06:40 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1220
+[15-Jun-2020 10:06:40 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1221
+[15-Jun-2020 10:06:40 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1222
+[15-Jun-2020 10:06:40 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1467
+[15-Jun-2020 10:06:40 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1468
+[15-Jun-2020 10:06:40 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1469
+[15-Jun-2020 10:06:40 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1470
+[15-Jun-2020 10:06:43 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 724
+[15-Jun-2020 10:06:43 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 725
+[15-Jun-2020 10:06:43 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 726
+[15-Jun-2020 10:06:43 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 727
+[15-Jun-2020 10:06:43 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 971
+[15-Jun-2020 10:06:43 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 972
+[15-Jun-2020 10:06:43 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 973
+[15-Jun-2020 10:06:43 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 974
+[15-Jun-2020 10:06:43 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1219
+[15-Jun-2020 10:06:43 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1220
+[15-Jun-2020 10:06:43 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1221
+[15-Jun-2020 10:06:43 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1222
+[15-Jun-2020 10:06:43 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1467
+[15-Jun-2020 10:06:43 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1468
+[15-Jun-2020 10:06:43 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1469
+[15-Jun-2020 10:06:43 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1470
+[18-Jun-2020 10:18:37 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[18-Jun-2020 10:18:48 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[18-Jun-2020 10:20:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[18-Jun-2020 10:21:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[18-Jun-2020 10:21:41 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[18-Jun-2020 10:23:23 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[18-Jun-2020 10:23:27 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[18-Jun-2020 10:23:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 15
+[18-Jun-2020 10:24:42 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 16
+[18-Jun-2020 10:25:26 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 16
+[18-Jun-2020 10:25:29 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 16
+[18-Jun-2020 10:25:32 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 16
+[18-Jun-2020 10:25:37 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 16
+[18-Jun-2020 10:25:42 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 16
+[18-Jun-2020 10:25:51 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 16
+[18-Jun-2020 10:25:53 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 16
+[18-Jun-2020 10:25:53 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 16
+[18-Jun-2020 10:25:53 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 16
+[18-Jun-2020 10:25:53 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_data.php on line 16
+[18-Jun-2020 10:30:08 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 724
+[18-Jun-2020 10:30:08 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 725
+[18-Jun-2020 10:30:08 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 726
+[18-Jun-2020 10:30:08 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 727
+[18-Jun-2020 10:30:08 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 971
+[18-Jun-2020 10:30:08 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 972
+[18-Jun-2020 10:30:08 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 973
+[18-Jun-2020 10:30:08 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 974
+[18-Jun-2020 10:30:08 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1219
+[18-Jun-2020 10:30:08 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1220
+[18-Jun-2020 10:30:08 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1221
+[18-Jun-2020 10:30:08 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1222
+[18-Jun-2020 10:30:08 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1467
+[18-Jun-2020 10:30:08 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1468
+[18-Jun-2020 10:30:08 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1469
+[18-Jun-2020 10:30:08 UTC] PHP Notice:  Trying to get property of non-object in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/index.php on line 1470
+[22-Jun-2020 16:58:08 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_temp_from_station.php on line 9
+[22-Jun-2020 17:00:49 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_temp_from_station.php on line 9
+[22-Jun-2020 17:00:53 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_temp_from_station.php on line 9
+[22-Jun-2020 17:00:58 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_temp_from_station.php on line 9
+[22-Jun-2020 17:01:08 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_temp_from_station.php on line 9
+[22-Jun-2020 17:02:33 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_temp_from_station.php on line 9
+[24-Jun-2020 20:28:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_temp_from_station.php on line 11
+[24-Jun-2020 20:28:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_hum_from_station.php on line 11
+[24-Jun-2020 20:28:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_gas_from_station.php on line 11
+[24-Jun-2020 20:28:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_temp_from_station.php on line 11
+[24-Jun-2020 20:28:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_hum_from_station.php on line 11
+[24-Jun-2020 20:28:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_gas_from_station.php on line 11
+[24-Jun-2020 20:28:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_temp_from_station.php on line 11
+[24-Jun-2020 20:28:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_hum_from_station.php on line 11
+[24-Jun-2020 20:28:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_temp_from_station.php on line 11
+[24-Jun-2020 20:28:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_hum_from_station.php on line 11
+[24-Jun-2020 20:28:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_temp_from_station.php on line 11
+[24-Jun-2020 20:28:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_hum_from_station.php on line 11
+[24-Jun-2020 20:29:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_temp_from_station.php on line 11
+[24-Jun-2020 20:29:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_hum_from_station.php on line 11
+[24-Jun-2020 20:29:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_temp_from_station.php on line 11
+[24-Jun-2020 20:29:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_hum_from_station.php on line 11
+[24-Jun-2020 20:29:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_temp_from_station.php on line 11
+[24-Jun-2020 20:29:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_hum_from_station.php on line 11
+[24-Jun-2020 20:29:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_temp_from_station.php on line 11
+[24-Jun-2020 20:29:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_hum_from_station.php on line 11
+[24-Jun-2020 20:29:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_temp_from_station.php on line 11
+[24-Jun-2020 20:29:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_hum_from_station.php on line 11
+[24-Jun-2020 20:29:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_temp_from_station.php on line 11
+[24-Jun-2020 20:29:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_hum_from_station.php on line 11
+[24-Jun-2020 20:29:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_gas_from_station.php on line 11
+[24-Jun-2020 20:31:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_temp_from_station.php on line 11
+[24-Jun-2020 20:31:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_hum_from_station.php on line 11
+[24-Jun-2020 20:31:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_gas_from_station.php on line 11
+[24-Jun-2020 20:31:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_temp_from_station.php on line 17
+[24-Jun-2020 20:31:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_hum_from_station.php on line 17
+[24-Jun-2020 20:31:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_gas_from_station.php on line 17
+[24-Jun-2020 20:32:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_temp_from_station.php on line 17
+[24-Jun-2020 20:32:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_hum_from_station.php on line 17
+[24-Jun-2020 20:32:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_gas_from_station.php on line 17
+[24-Jun-2020 20:32:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_gas_from_station.php on line 17
+[24-Jun-2020 20:32:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_gas_from_station.php on line 17
+[24-Jun-2020 20:32:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_gas_from_station.php on line 17
+[24-Jun-2020 20:33:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_gas_from_station.php on line 17
+[24-Jun-2020 20:37:05 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/all_gas_from_station.php on line 16
+[30-Jun-2020 14:40:56 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 11
+[30-Jun-2020 14:40:56 UTC] PHP Notice:  Undefined index: password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[30-Jun-2020 14:41:26 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[30-Jun-2020 14:41:26 UTC] PHP Notice:  Undefined index: password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[30-Jun-2020 14:41:41 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[30-Jun-2020 14:41:41 UTC] PHP Notice:  Undefined index: password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[30-Jun-2020 14:41:42 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[30-Jun-2020 14:41:42 UTC] PHP Notice:  Undefined index: password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[30-Jun-2020 14:41:43 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[30-Jun-2020 14:41:43 UTC] PHP Notice:  Undefined index: password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[30-Jun-2020 14:41:43 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[30-Jun-2020 14:41:43 UTC] PHP Notice:  Undefined index: password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[30-Jun-2020 14:41:44 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[30-Jun-2020 14:41:44 UTC] PHP Notice:  Undefined index: password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[30-Jun-2020 14:42:09 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 29
+[30-Jun-2020 14:42:10 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 29
+[30-Jun-2020 14:42:11 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 29
+[30-Jun-2020 14:42:12 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 29
+[30-Jun-2020 14:42:12 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 29
+[30-Jun-2020 14:42:12 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 29
+[30-Jun-2020 14:42:14 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 29
+[30-Jun-2020 14:42:16 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 29
+[30-Jun-2020 14:42:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 29
+[30-Jun-2020 14:42:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 29
+[30-Jun-2020 14:42:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 29
+[30-Jun-2020 14:42:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 29
+[30-Jun-2020 14:42:22 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 29
+[30-Jun-2020 14:42:22 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 29
+[30-Jun-2020 14:42:22 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 29
+[30-Jun-2020 14:42:22 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 29
+[30-Jun-2020 14:42:26 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[30-Jun-2020 14:42:26 UTC] PHP Notice:  Undefined index: password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[30-Jun-2020 14:42:42 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[30-Jun-2020 14:42:42 UTC] PHP Notice:  Undefined index: password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[30-Jun-2020 14:43:41 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[30-Jun-2020 14:43:41 UTC] PHP Notice:  Undefined index: password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[30-Jun-2020 14:43:42 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[30-Jun-2020 14:43:42 UTC] PHP Notice:  Undefined index: password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[30-Jun-2020 14:43:42 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[30-Jun-2020 14:43:42 UTC] PHP Notice:  Undefined index: password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[30-Jun-2020 14:46:32 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[30-Jun-2020 14:46:32 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[30-Jun-2020 14:47:54 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[30-Jun-2020 14:47:54 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[30-Jun-2020 14:48:07 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[30-Jun-2020 14:48:07 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 11:11:30 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 11:13:44 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 11:13:47 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 11:13:47 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 11:13:48 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 11:13:56 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[04-Jul-2020 11:13:56 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 11:18:11 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[04-Jul-2020 11:18:11 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 11:19:28 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[04-Jul-2020 11:19:28 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 11:22:13 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 11:22:14 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 11:22:15 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 11:22:15 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 11:22:15 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 11:22:15 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 11:22:16 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 11:22:16 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 11:22:16 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 12:10:12 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 12:10:12 UTC] PHP Notice:  Undefined variable: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 30
+[04-Jul-2020 12:10:18 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 12:10:18 UTC] PHP Notice:  Undefined variable: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 30
+[04-Jul-2020 12:10:19 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 12:10:19 UTC] PHP Notice:  Undefined variable: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 30
+[04-Jul-2020 12:10:40 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 12:10:40 UTC] PHP Notice:  Undefined variable: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 30
+[04-Jul-2020 12:11:16 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 12:11:16 UTC] PHP Notice:  Undefined variable: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 30
+[04-Jul-2020 12:11:19 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 12:11:19 UTC] PHP Notice:  Undefined variable: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 30
+[04-Jul-2020 13:24:08 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[04-Jul-2020 13:24:08 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 13:24:09 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[04-Jul-2020 13:24:09 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 15:40:31 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 15:41:06 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[04-Jul-2020 15:41:06 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 16:01:05 UTC] PHP Notice:  Undefined index: email in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 12
+[04-Jul-2020 16:01:05 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 16:08:04 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 16:08:31 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 16:14:54 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
+[04-Jul-2020 16:17:11 UTC] PHP Notice:  Undefined index: user_password in /home/paeffl/meteo.p.aeffl.pt/projeto_fct/auth.php on line 13
