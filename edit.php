@@ -1,4 +1,9 @@
 <?php
+/*
+ * File:   add_data.php
+ * Author: Iuri Gonçalves
+ * Date:   2018
+ */
 
 // Include config file
 require_once "db_conn.php";
