@@ -1,1 +1,4 @@
+ --File:   query.sql
+ --Author: Iuri Gonçalves
+ --Date:   2018
 SELECT * FROM `sensors_readings` ORDER BY `reading_date` DESC, `reading_hour`DESC
