@@ -1,6 +1,6 @@
 <?php require_once('header.php');?>
 <!--
- * File:   error.php
+ * File:   index.php
  * Author: Iuri Gonçalves
  * Date:   2018
  -->
