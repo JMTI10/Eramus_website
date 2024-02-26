@@ -1,5 +1,10 @@
 <?php require_once ('header.php');?>
-<?php 		
+<?php
+/*
+ * File:   error.php
+ * Author: Iuri Gonçalves
+ * Date:   2018
+ */
 	echo "start";
 	//id_location = $_GET['country'] and
 	if (isset($_POST["country"]) && !empty($_POST["country"])){
