@@ -1,5 +1,9 @@
 <?php
-
+/*
+ * File:   add_data.php
+ * Author: Iuri Gonçalves
+ * Date:   2018
+ */
 include("db_conn.php");
 
 $hum_weighting = 0.25; // so hum effect is 25% of the total air quality score
