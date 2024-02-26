@@ -1,6 +1,6 @@
 <?php
 /*
- * File:   error.php
+ * File:   header.php
  * Author: Iuri Gonçalves
  * Date:   2018
  *
