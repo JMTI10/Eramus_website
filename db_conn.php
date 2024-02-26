@@ -1,8 +1,8 @@
 <?php
 				$servername = "localhost";
-				$username = "paeffl_meteo";
-				$password = "mete0209Aqw2";
-				$dbname = "paeffl_meteo";
+				$username = "****";
+				$password = "****";
+				$dbname = "****";
 
 				// Create connection
 				$mysqli = new mysqli($servername, $username, $password, $dbname);
