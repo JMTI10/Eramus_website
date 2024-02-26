@@ -1,3 +1,8 @@
+<!--
+ * File:   error.php
+ * Author: Iuri Gonçalves
+ * Date:   2018
+ -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
