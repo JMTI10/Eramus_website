@@ -1,3 +1,8 @@
+<!--
+ * File:   error.php
+ * Author: Iuri Gonçalves
+ * Date:   2018
+ -->
 <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow">
 <meta charset="UTF-8">
 
