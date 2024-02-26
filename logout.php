@@ -1,6 +1,6 @@
 <?php
 /*
- * File:   error.php
+ * File:   logout.php
  * Author: Iuri Gonçalves
  * Date:   2018
  */
