@@ -1,4 +1,9 @@
 <?php
+/*
+ * File:   add_data.php
+ * Author: Iuri Gonçalves
+ * Date:   2018
+ */
 				$servername = "localhost";
 				$username = "****";
 				$password = "****";
