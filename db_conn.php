@@ -1,6 +1,6 @@
 <?php
 /*
- * File:   add_data.php
+ * File:   db_conn.php
  * Author: Iuri Gonçalves
  * Date:   2018
  */
