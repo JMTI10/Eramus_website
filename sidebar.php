@@ -1,3 +1,8 @@
+<!--
+ * File:   error.php
+ * Author: Iuri Gonçalves
+ * Date:   2018
+ -->
 <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
       <!-- Sidebar - Brand -->
