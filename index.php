@@ -1,4 +1,9 @@
 <?php require_once('header.php');?>
+<!--
+ * File:   error.php
+ * Author: Iuri Gonçalves
+ * Date:   2018
+ -->
 <!-- GRAFICOS -->
 <script type="text/javascript">
    //temperatura 
