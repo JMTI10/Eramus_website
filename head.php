@@ -1,5 +1,5 @@
 <!--
- * File:   error.php
+ * File:   head.php
  * Author: Iuri Gonçalves
  * Date:   2018
  -->
