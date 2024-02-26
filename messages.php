@@ -1,6 +1,6 @@
 <?php  if (count($errors) > 0) : ?>
   <!--
- * File:   error.php
+ * File:   messages.php
  * Author: Iuri Gonçalves
  * Date:   2018
  -->
