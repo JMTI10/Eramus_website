@@ -7,6 +7,11 @@
 -- Versão do servidor: 10.4.6-MariaDB
 -- versão do PHP: 7.3.9
 
+
+ -- File:   whearherstation.sql
+ -- Author: Iuri Gonçalves
+ -- Date:   2018
+
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
 START TRANSACTION;
