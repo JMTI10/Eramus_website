@@ -1,7 +1,7 @@
 <?php require_once ('header.php');?>
 <?php
 /*
- * File:   error.php
+ * File:   upload_result.php
  * Author: Iuri Gonçalves
  * Date:   2018
  */
