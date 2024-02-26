@@ -1,6 +1,6 @@
 <?php
 /*
- * File:   error.php
+ * File:   register.php
  * Author: Iuri Gonçalves
  * Date:   2018
  */
