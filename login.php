@@ -1,4 +1,9 @@
 <?php
+/*
+ * File:   error.php
+ * Author: Iuri Gonçalves
+ * Date:   2018
+ */
 // Initialize the session
 session_start();
 
