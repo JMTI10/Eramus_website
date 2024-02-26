@@ -1,5 +1,11 @@
 <?php
-// Initialize the session
+/*
+ * File:   error.php
+ * Author: Iuri Gonçalves
+ * Date:   2018
+ *
+*/
+Initialize the session
 session_start();
  
 // Check if the user is logged in, if not then redirect him to login page
